@@ -1,0 +1,17 @@
+.npmignore
+
+# Dependency directories
+node_modules
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# MacOS folder atttribute tracking
+**/.DS_Store
